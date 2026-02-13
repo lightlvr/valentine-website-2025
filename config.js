@@ -22,9 +22,9 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "",                                    // First interaction
-            yesBtn: "I will hehe!",                                             // Text for "Yes" button
-            noBtn: "I dont wanna fatty",                                               // Text for "No" button
+            text: "Do you know that i love you lots and lots?",                                    // First interaction
+            yesBtn: "I do i do!",                                             // Text for "Yes" button
+            noBtn: "Nuh uh you dont..",                                               // Text for "No" button
             secretAnswer: "You so skibidi my rizzler!! 💗"           // Secret hover message
         },
         second: {
