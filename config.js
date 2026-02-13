@@ -22,10 +22,10 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Sigma sigma on the wall, Who’s the skibidiest cutie of them all? If the vibes are strong and the stars align, Will you be my sweet little Valentine?",                                    // First interaction
-            yesBtn: "I do hehe",                                             // Text for "Yes" button
-            noBtn: "No u fatty",                                               // Text for "No" button
-            secretAnswer: "And i love you even moreeeee!! 💗"           // Secret hover message
+            text: "",                                    // First interaction
+            yesBtn: "I will hehe!",                                             // Text for "Yes" button
+            noBtn: "I dont wanna fatty",                                               // Text for "No" button
+            secretAnswer: "You so skibidi my rizzler!! 💗"           // Secret hover message
         },
         second: {
             text: "On a scale of 1-♾️, how much do you love me?",                          // For the love meter
@@ -33,9 +33,9 @@ const CONFIG = {
             nextBtn: "Confirm"                                         // Text for the next button
         },
         third: {
-            text: "My baby, may i be your Valentine this year? 🥺", // The big question!
-            yesBtn: "You may!",                                             // Text for "Yes" button
-            noBtn: "You farted..."                                                 // Text for "No" button
+            text: "Sigma sigma on the wall, Who’s the skibidiest cutie of them all? If the vibes are strong and the stars align, will you be my darling Valentine?", // The big question!
+            yesBtn: "You may my rizzler!",                                             // Text for "Yes" button
+            noBtn: "Ew no you farted..."                                                 // Text for "No" button
         }
     },
 
@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "Yayyyyy thank you my lovee",
         message: "May we always have an amazing time when we're together my heart",
-        emojis: "🫂💗🇲🇳🇮🇶🤍💋"  // These will bounce around
+        emojis: "🫂💗🇲🇳✝️🇮🇶🤍💋"  // These will bounce around
     },
 
     // Color scheme for the website
