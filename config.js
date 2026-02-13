@@ -22,7 +22,7 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you know that i love you lots and lots?",                                    // First interaction
+            text: "Sigma sigma on the wall, Who’s the skibidiest cutie of them all? If the vibes are strong and the stars align, Will you be my sweet little Valentine?",                                    // First interaction
             yesBtn: "I do hehe",                                             // Text for "Yes" button
             noBtn: "No u fatty",                                               // Text for "No" button
             secretAnswer: "And i love you even moreeeee!! 💗"           // Secret hover message
